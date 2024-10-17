@@ -28,6 +28,8 @@ export default function Home() {
       >
         <main className={styles.main}>
           ПРИВЕТ НЕКСТ ДЖИ ЭС
+          <img src="https://avatars.mds.yandex.net/get-kinopoisk-image/4774061/cf1970bc-3f08-4e0e-a095-2fb57c3aa7c6/300x450" alt="Описание изображения" />
+
           <Image
             className={styles.logo}
             src="https://nextjs.org/icons/next.svg"
